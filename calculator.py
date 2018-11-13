@@ -1,5 +1,3 @@
-"""DSC40 calculator"""
-
 import math
 
 def total_squared_distance(centroid, lst):
